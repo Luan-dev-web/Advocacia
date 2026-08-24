@@ -3284,14 +3284,14 @@ body {
     .whats-link {
         position: fixed;
         bottom: 45px;
-        right: 45px;
+        right: 32px;
         z-index: 10000;
         cursor: pointer;
     }
 
     .whats {
-        width: 70px;
-        height: 70px;
+        width: 60px;
+        height: 60px;
         border-radius: 50%;
         display: block;
         box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
@@ -3876,7 +3876,7 @@ body {
     .whats-link {
         position: fixed;
         bottom: 45px;
-        right: 45px;
+        right: 18px;
         z-index: 10000;
         cursor: pointer;
     }
@@ -3953,6 +3953,7 @@ body {
     .imagem-do-advogado {
         width: 180px;
         height: 180px;
+        border-radius: 5px;
     }
 
     /*Acima sobre nós*/
